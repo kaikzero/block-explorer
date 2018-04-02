@@ -1626,7 +1626,7 @@ var salt = '4721283fee2db41e1f2fc50ea9f6d783'; // IMPORTANT: never change it, ot
 var config = {
     coinUnitPlaces: 12,
     coinSymbol: 'TRTL',
-    coinName: 'TurtleCoin',
+    coinName: 'Dosh',
     coinUriPrefix: 'doshcoin:',
     addressPrefix: 3914525
 };
